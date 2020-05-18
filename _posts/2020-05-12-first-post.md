@@ -19,6 +19,6 @@ KlauseLoeffelmann/MvvmForms 프로젝트와 rubberduck-vba/Rubberduck 프로젝�
 각자 더 조사해보고 좋은 프로젝트가 있으면 추가하기로 결정
 그렇지 않다면 algorithms_and_data_structure 프로젝트와 animate.css 프로젝트를 선정하기로 함.
 
-2020-05-09 19:59
+2020-05-09 19:59 최종 프로젝트 선정
 
-더 좋다고 생각되는 프로젝트에 대한 의견이 나오지않아 algorithms_and_data_structure 프로젝트와 animate.css 프로젝트를 팀 프로젝트로 선정.
+더 좋다고 생각되는 프로젝트에 대한 의견이 나오지 않아 algorithms_and_data_structure 프로젝트와 animate.css 프로젝트를 팀 프로젝트로 선정.
