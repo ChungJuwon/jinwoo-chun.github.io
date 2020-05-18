@@ -17,8 +17,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 6조 천진우
+  tagline: 
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
